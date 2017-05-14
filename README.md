@@ -1,5 +1,5 @@
 # chat_program
-A basic chat program based on using socket programming.
+A basic chat program based on c language using socket programming(BSD).
 
 
 -First,compile both using gcc.
